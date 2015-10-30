@@ -380,5 +380,1239 @@
         "longitude_unit": "degree",
         "name": "mro",
         "source": "MRO website"
+    },
+
+    "AAT": {
+        "aliases": "Anglo-Australian 3.9m Telescope", 
+        "elevation": 1164.0000000008922, 
+        "elevation_unit": "meter", 
+        "latitude": -31.27703888892212, 
+        "latitude_unit": "degree", 
+        "longitude": 149.06608611109516, 
+        "longitude_unit": "degree", 
+        "name": "AAT", 
+        "source": "slalib"
+    },
+
+
+    "ANU2.3": {
+        "aliases": "Siding Spring 2.3 metre", 
+        "elevation": 1149.000000000633, 
+        "elevation_unit": "meter", 
+        "latitude": -31.273361111223352, 
+        "latitude_unit": "degree", 
+        "longitude": 149.0611944443851, 
+        "longitude_unit": "degree", 
+        "name": "ANU2.3", 
+        "source": "slalib"
+    },
+
+
+    "APO3.5": {
+        "aliases": "Apache Point 3.5m", 
+        "elevation": 2808.9999999989013, 
+        "elevation_unit": "meter", 
+        "latitude": 32.780266666432915, 
+        "latitude_unit": "degree", 
+        "longitude": -105.81987777776617, 
+        "longitude_unit": "degree", 
+        "name": "APO3.5", 
+        "source": "slalib"
+    },
+
+
+    "ARECIBO": {
+        "aliases": "Arecibo 1000 foot", 
+        "elevation": 495.99999999948557, 
+        "elevation_unit": "meter", 
+        "latitude": 18.34349999956571, 
+        "latitude_unit": "degree", 
+        "longitude": -66.75308333363023, 
+        "longitude_unit": "degree", 
+        "name": "ARECIBO", 
+        "source": "slalib"
+    },
+
+
+    "ATCA": {
+        "aliases": "Australia Telescope Compact Array", 
+        "elevation": 236.90000000192998, 
+        "elevation_unit": "meter", 
+        "latitude": -30.312884721748695, 
+        "latitude_unit": "degree", 
+        "longitude": 149.55013888912237, 
+        "longitude_unit": "degree", 
+        "name": "ATCA", 
+        "source": "slalib"
+    },
+
+
+    "BLOEMF": {
+        "aliases": "Bloemfontein 1.52 metre", 
+        "elevation": 1387.0000000003108, 
+        "elevation_unit": "meter", 
+        "latitude": -29.038333333316906, 
+        "latitude_unit": "degree", 
+        "longitude": 26.404999999994118, 
+        "longitude_unit": "degree", 
+        "name": "BLOEMF", 
+        "source": "slalib"
+    },
+
+
+    "BOSQALEGRE": {
+        "aliases": "Bosque Alegre 1.54 metre", 
+        "elevation": 1249.9999999997663, 
+        "elevation_unit": "meter", 
+        "latitude": -31.598055555582473, 
+        "latitude_unit": "degree", 
+        "longitude": -64.54666666663191, 
+        "longitude_unit": "degree", 
+        "name": "BOSQALEGRE", 
+        "source": "slalib"
+    },
+
+
+    "CAMB1MILE": {
+        "aliases": "Cambridge 1 mile", 
+        "elevation": 16.9999999996191, 
+        "elevation_unit": "meter", 
+        "latitude": 52.16313888870512, 
+        "latitude_unit": "degree", 
+        "longitude": 0.03934444427487491, 
+        "longitude_unit": "degree", 
+        "name": "CAMB1MILE", 
+        "source": "slalib"
+    },
+
+
+    "CAMB5KM": {
+        "aliases": "Cambridge 5km", 
+        "elevation": 17.00000000025188, 
+        "elevation_unit": "meter", 
+        "latitude": 52.17005555550949, 
+        "latitude_unit": "degree", 
+        "longitude": 0.04367499987283067, 
+        "longitude_unit": "degree", 
+        "name": "CAMB5KM", 
+        "source": "slalib"
+    },
+
+
+    "CATALINA61": {
+        "aliases": "Catalina 61 inch", 
+        "elevation": 2509.9999999997276, 
+        "elevation_unit": "meter", 
+        "latitude": 32.41686111113424, 
+        "latitude_unit": "degree", 
+        "longitude": -110.73197222195408, 
+        "longitude_unit": "degree", 
+        "name": "CATALINA61", 
+        "source": "slalib"
+    },
+
+
+    "CHIME": {
+        "aliases": "Canadian Hydrogen Intensity Mapping Experiment", 
+        "elevation": 541.8822311422289, 
+        "elevation_unit": "meter", 
+        "latitude": 49.32261814644458, 
+        "latitude_unit": "degree", 
+        "longitude": -119.62498387393246, 
+        "longitude_unit": "degree", 
+        "name": "CHIME", 
+        "source": "slalib"
+    },
+
+
+    "CSO": {
+        "aliases": "Caltech Sub-mm Observatory, Mauna Kea", 
+        "elevation": 4080.0000000000746, 
+        "elevation_unit": "meter", 
+        "latitude": 19.822438889090716, 
+        "latitude_unit": "degree", 
+        "longitude": -155.47549722261897, 
+        "longitude_unit": "degree", 
+        "name": "CSO", 
+        "source": "slalib"
+    },
+
+
+    "DAO72": {
+        "aliases": "DAO Victoria BC 1.85 metre", 
+        "elevation": 238.00000000031469, 
+        "elevation_unit": "meter", 
+        "latitude": 48.51997222210948, 
+        "latitude_unit": "degree", 
+        "longitude": -123.4169944443811, 
+        "longitude_unit": "degree", 
+        "name": "DAO72", 
+        "source": "slalib"
+    },
+
+
+    "DUNLAP74": {
+        "aliases": "David Dunlap 74 inch", 
+        "elevation": 244.0000000011095, 
+        "elevation_unit": "meter", 
+        "latitude": 43.86277777778786, 
+        "latitude_unit": "degree", 
+        "longitude": -79.42222222231474, 
+        "longitude_unit": "degree", 
+        "name": "DUNLAP74", 
+        "source": "slalib"
+    },
+
+
+    "DUPONT": {
+        "aliases": "Du Pont 2.5m Telescope, Las Campanas", 
+        "elevation": 2280.0000000000887, 
+        "elevation_unit": "meter", 
+        "latitude": -29.003055555539657, 
+        "latitude_unit": "degree", 
+        "longitude": -70.70249999992603, 
+        "longitude_unit": "degree", 
+        "name": "DUPONT", 
+        "source": "slalib"
+    },
+
+
+    "EFFELSBERG": {
+        "aliases": "Effelsberg 100 metre", 
+        "elevation": 366.0000000004658, 
+        "elevation_unit": "meter", 
+        "latitude": 50.52461111119137, 
+        "latitude_unit": "degree", 
+        "longitude": 6.883749999990853, 
+        "longitude_unit": "degree", 
+        "name": "EFFELSBERG", 
+        "source": "slalib"
+    },
+
+
+    "ESO3.6": {
+        "aliases": "ESO 3.6 metre", 
+        "elevation": 2428.000000001561, 
+        "elevation_unit": "meter", 
+        "latitude": -29.26000000002631, 
+        "latitude_unit": "degree", 
+        "longitude": -70.72666666644574, 
+        "longitude_unit": "degree", 
+        "name": "ESO3.6", 
+        "source": "slalib"
+    },
+
+
+    "ESONTT": {
+        "aliases": "ESO 3.5 metre NTT", 
+        "elevation": 2376.999999999576, 
+        "elevation_unit": "meter", 
+        "latitude": -29.258333333352, 
+        "latitude_unit": "degree", 
+        "longitude": -70.71861111132114, 
+        "longitude_unit": "degree", 
+        "name": "ESONTT", 
+        "source": "slalib"
+    },
+
+
+    "ESOSCHM": {
+        "aliases": "ESO 1 metre Schmidt, La Silla", 
+        "elevation": 2346.999999999616, 
+        "elevation_unit": "meter", 
+        "latitude": -29.25716666643361, 
+        "latitude_unit": "degree", 
+        "longitude": -70.72958333331198, 
+        "longitude_unit": "degree", 
+        "name": "ESOSCHM", 
+        "source": "slalib"
+    },
+
+
+    "FCRAO": {
+        "aliases": "Five College Radio Astronomy Obs", 
+        "elevation": 313.99999999902616, 
+        "elevation_unit": "meter", 
+        "latitude": 42.39166666665161, 
+        "latitude_unit": "degree", 
+        "longitude": -72.34500000026942, 
+        "longitude_unit": "degree", 
+        "name": "FCRAO", 
+        "source": "slalib"
+    },
+
+
+    "FLAGSTF61": {
+        "aliases": "USNO 61 inch astrograph, Flagstaff", 
+        "elevation": 2315.9999999995202, 
+        "elevation_unit": "meter", 
+        "latitude": 35.1840277777568, 
+        "latitude_unit": "degree", 
+        "longitude": -111.7398888892476, 
+        "longitude_unit": "degree", 
+        "name": "FLAGSTF61", 
+        "source": "slalib"
+    },
+
+
+    "GB300": {
+        "aliases": "Green Bank 300 meter (RIP)", 
+        "elevation": 893.6999999998678, 
+        "elevation_unit": "meter", 
+        "latitude": 38.42952777777777, 
+        "latitude_unit": "degree", 
+        "longitude": -79.84898888888888, 
+        "longitude_unit": "degree", 
+        "name": "GB300", 
+        "source": "slalib"
+    },
+
+
+    "GB85": {
+        "aliases": "Green Bank 85 foot 3-telescope array", 
+        "elevation": 835.799999999968, 
+        "elevation_unit": "meter", 
+        "latitude": 38.429416666666654, 
+        "latitude_unit": "degree", 
+        "longitude": -79.843575, 
+        "longitude_unit": "degree", 
+        "name": "GB85", 
+        "source": "slalib"
+    },
+
+
+    "GBT": {
+        "aliases": "Green Bank Telescope", 
+        "elevation": 880.0000000004055, 
+        "elevation_unit": "meter", 
+        "latitude": 38.43312111113229, 
+        "latitude_unit": "degree", 
+        "longitude": -79.8398350000569, 
+        "longitude_unit": "degree", 
+        "name": "GBT", 
+        "source": "slalib"
+    },
+
+
+    "GBVA140": {
+        "aliases": "Greenbank 140 foot", 
+        "elevation": 880.9999999995725, 
+        "elevation_unit": "meter", 
+        "latitude": 38.43761111099395, 
+        "latitude_unit": "degree", 
+        "longitude": -79.83600277757374, 
+        "longitude_unit": "degree", 
+        "name": "GBVA140", 
+        "source": "slalib"
+    },
+
+
+    "GEMININ": {
+        "aliases": "Gemini North 8-m telescope", 
+        "elevation": 4213.399999999769, 
+        "elevation_unit": "meter", 
+        "latitude": 19.823802777937058, 
+        "latitude_unit": "degree", 
+        "longitude": -155.46904722186, 
+        "longitude_unit": "degree", 
+        "name": "GEMININ", 
+        "source": "slalib"
+    },
+
+
+    "GEMINIS": {
+        "aliases": "Gemini South 8-m telescope", 
+        "elevation": 2737.9999999996608, 
+        "elevation_unit": "meter", 
+        "latitude": -30.240750000201956, 
+        "latitude_unit": "degree", 
+        "longitude": -70.73652777774053, 
+        "longitude_unit": "degree", 
+        "name": "GEMINIS", 
+        "source": "slalib"
+    },
+
+
+    "GMRT": {
+        "aliases": "Giant Metrewave Radio Telescope", 
+        "elevation": 497.00082854780277, 
+        "elevation_unit": "meter", 
+        "latitude": 19.09300278307055, 
+        "latitude_unit": "degree", 
+        "longitude": 74.05656115769753, 
+        "longitude_unit": "degree", 
+        "name": "GMRT", 
+        "source": "slalib"
+    },
+
+
+    "HARVARD": {
+        "aliases": "Harvard College Observatory 1.55m", 
+        "elevation": 184.99999999875772, 
+        "elevation_unit": "meter", 
+        "latitude": 42.50527777777772, 
+        "latitude_unit": "degree", 
+        "longitude": -71.55814444425857, 
+        "longitude_unit": "degree", 
+        "name": "HARVARD", 
+        "source": "slalib"
+    },
+
+
+    "HOBART": {
+        "aliases": "Hobart, Tasmania", 
+        "elevation": 50.00000000021222, 
+        "elevation_unit": "meter", 
+        "latitude": -42.80500000000001, 
+        "latitude_unit": "degree", 
+        "longitude": 147.43916666666667, 
+        "longitude_unit": "degree", 
+        "name": "HOBART", 
+        "source": "slalib"
+    },
+
+
+    "HPROV1.52": {
+        "aliases": "Haute Provence 1.52 metre", 
+        "elevation": 667.0000000005722, 
+        "elevation_unit": "meter", 
+        "latitude": 43.933388888877175, 
+        "latitude_unit": "degree", 
+        "longitude": 5.712172222139776, 
+        "longitude_unit": "degree", 
+        "name": "HPROV1.52", 
+        "source": "slalib"
+    },
+
+
+    "HPROV1.93": {
+        "aliases": "Haute Provence 1.93 metre", 
+        "elevation": 664.999999999834, 
+        "elevation_unit": "meter", 
+        "latitude": 43.93147222203842, 
+        "latitude_unit": "degree", 
+        "longitude": 5.712986111111371, 
+        "longitude_unit": "degree", 
+        "name": "HPROV1.93", 
+        "source": "slalib"
+    },
+
+
+    "IRTF": {
+        "aliases": "NASA IR Telescope Facility, Mauna Kea", 
+        "elevation": 4168.099999999918, 
+        "elevation_unit": "meter", 
+        "latitude": 19.826219444302556, 
+        "latitude_unit": "degree", 
+        "longitude": -155.47199999996428, 
+        "longitude_unit": "degree", 
+        "name": "IRTF", 
+        "source": "slalib"
+    },
+
+
+    "JCMT": {
+        "aliases": "JCMT 15 metre", 
+        "elevation": 4110.999999998893, 
+        "elevation_unit": "meter", 
+        "latitude": 19.82280833348023, 
+        "latitude_unit": "degree", 
+        "longitude": -155.47700000038824, 
+        "longitude_unit": "degree", 
+        "name": "JCMT", 
+        "source": "slalib"
+    },
+
+
+    "JODRELL1": {
+        "aliases": "Jodrell Bank 250 foot", 
+        "elevation": 77.99999999941598, 
+        "elevation_unit": "meter", 
+        "latitude": 53.236250000009676, 
+        "latitude_unit": "degree", 
+        "longitude": -2.3069444444417537, 
+        "longitude_unit": "degree", 
+        "name": "JODRELL1", 
+        "source": "slalib"
+    },
+
+
+    "KECK1": {
+        "aliases": "Keck 10m Telescope #1", 
+        "elevation": 4159.9999999996435, 
+        "elevation_unit": "meter", 
+        "latitude": 19.825947222199215, 
+        "latitude_unit": "degree", 
+        "longitude": -155.4747194444442, 
+        "longitude_unit": "degree", 
+        "name": "KECK1", 
+        "source": "slalib"
+    },
+
+
+    "KECK2": {
+        "aliases": "Keck 10m Telescope #2", 
+        "elevation": 4159.599999998484, 
+        "elevation_unit": "meter", 
+        "latitude": 19.826561110838725, 
+        "latitude_unit": "degree", 
+        "longitude": -155.47423333329982, 
+        "longitude_unit": "degree", 
+        "name": "KECK2", 
+        "source": "slalib"
+    },
+
+
+    "KISO": {
+        "aliases": "Kiso 1.05 metre Schmidt, Japan", 
+        "elevation": 1129.9999999998413, 
+        "elevation_unit": "meter", 
+        "latitude": 35.79408333356861, 
+        "latitude_unit": "degree", 
+        "longitude": 137.62838888910136, 
+        "longitude_unit": "degree", 
+        "name": "KISO", 
+        "source": "slalib"
+    },
+
+
+    "KOSMA3M": {
+        "aliases": "KOSMA 3m telescope, Gornergrat", 
+        "elevation": 3141.00000000243, 
+        "elevation_unit": "meter", 
+        "latitude": 45.983269999797585, 
+        "latitude_unit": "degree", 
+        "longitude": 7.784300000000308, 
+        "longitude_unit": "degree", 
+        "name": "KOSMA3M", 
+        "source": "slalib"
+    },
+
+
+    "KOTTAMIA": {
+        "aliases": "Kottamia 74 inch", 
+        "elevation": 475.99999999929804, 
+        "elevation_unit": "meter", 
+        "latitude": 29.931666666679877, 
+        "latitude_unit": "degree", 
+        "longitude": 31.824999999988805, 
+        "longitude_unit": "degree", 
+        "name": "KOTTAMIA", 
+        "source": "slalib"
+    },
+
+
+    "KPNO158": {
+        "aliases": "Kitt Peak 158 inch", 
+        "elevation": 2120.0000000015348, 
+        "elevation_unit": "meter", 
+        "latitude": 31.96397222200527, 
+        "latitude_unit": "degree", 
+        "longitude": -111.59933611118598, 
+        "longitude_unit": "degree", 
+        "name": "KPNO158", 
+        "source": "slalib"
+    },
+
+
+    "KPNO36FT": {
+        "aliases": "Kitt Peak 36 foot", 
+        "elevation": 1939.0000000002506, 
+        "elevation_unit": "meter", 
+        "latitude": 31.953361111191178, 
+        "latitude_unit": "degree", 
+        "longitude": -111.61419999945826, 
+        "longitude_unit": "degree", 
+        "name": "KPNO36FT", 
+        "source": "slalib"
+    },
+
+
+    "KPNO84": {
+        "aliases": "Kitt Peak 84 inch", 
+        "elevation": 2095.9999999996976, 
+        "elevation_unit": "meter", 
+        "latitude": 31.958111111336144, 
+        "latitude_unit": "degree", 
+        "longitude": -111.59765555607201, 
+        "longitude_unit": "degree", 
+        "name": "KPNO84", 
+        "source": "slalib"
+    },
+
+
+    "KPNO90": {
+        "aliases": "Kitt Peak 90 inch", 
+        "elevation": 2071.0000000006175, 
+        "elevation_unit": "meter", 
+        "latitude": 31.963027778200125, 
+        "latitude_unit": "degree", 
+        "longitude": -111.59951111140423, 
+        "longitude_unit": "degree", 
+        "name": "KPNO90", 
+        "source": "slalib"
+    },
+
+
+    "LICK120": {
+        "aliases": "Lick 120 inch", 
+        "elevation": 1286.0000000004757, 
+        "elevation_unit": "meter", 
+        "latitude": 37.343036388822156, 
+        "latitude_unit": "degree", 
+        "longitude": -121.63713583349129, 
+        "longitude_unit": "degree", 
+        "name": "LICK120", 
+        "source": "slalib"
+    },
+
+
+    "LOFAR": {
+        "aliases": "Low-Frequency Array for Radio Astronomy", 
+        "elevation": 49.35002954676998, 
+        "elevation_unit": "meter", 
+        "latitude": 52.91511896798418, 
+        "latitude_unit": "degree", 
+        "longitude": 6.869832836200029, 
+        "longitude_unit": "degree", 
+        "name": "LOFAR", 
+        "source": "slalib"
+    },
+
+
+    "LOWELL72": {
+        "aliases": "Perkins 72 inch, Lowell", 
+        "elevation": 2198.0000000005184, 
+        "elevation_unit": "meter", 
+        "latitude": 35.09683333291146, 
+        "latitude_unit": "degree", 
+        "longitude": -111.53591666647463, 
+        "longitude_unit": "degree", 
+        "name": "LOWELL72", 
+        "source": "slalib"
+    },
+
+
+    "LPO1": {
+        "aliases": "Jacobus Kapteyn 1m Telescope", 
+        "elevation": 2363.999999999358, 
+        "elevation_unit": "meter", 
+        "latitude": 28.76108333378411, 
+        "latitude_unit": "degree", 
+        "longitude": -17.878111111324785, 
+        "longitude_unit": "degree", 
+        "name": "LPO1", 
+        "source": "slalib"
+    },
+
+
+    "LPO2.5": {
+        "aliases": "Isaac Newton 2.5m Telescope", 
+        "elevation": 2336.0000000010077, 
+        "elevation_unit": "meter", 
+        "latitude": 28.76200000019428, 
+        "latitude_unit": "degree", 
+        "longitude": -17.877638888906546, 
+        "longitude_unit": "degree", 
+        "name": "LPO2.5", 
+        "source": "slalib"
+    },
+
+
+    "LPO4.2": {
+        "aliases": "William Herschel 4.2m Telescope", 
+        "elevation": 2331.999999999765, 
+        "elevation_unit": "meter", 
+        "latitude": 28.76058333288228, 
+        "latitude_unit": "degree", 
+        "longitude": -17.881638889303044, 
+        "longitude_unit": "degree", 
+        "name": "LPO4.2", 
+        "source": "slalib"
+    },
+
+
+    "LWA1": {
+        "aliases": "Long Wavelength Array", 
+        "elevation": 2126.996641832515, 
+        "elevation_unit": "meter", 
+        "latitude": 34.068899974626035, 
+        "latitude_unit": "degree", 
+        "longitude": -107.62767002113482, 
+        "longitude_unit": "degree", 
+        "name": "LWA1", 
+        "source": "slalib"
+    },
+
+
+    "MAGELLAN1": {
+        "aliases": "Magellan 1, 6.5m, Las Campanas", 
+        "elevation": 2407.9999999996503, 
+        "elevation_unit": "meter", 
+        "latitude": -29.014361111312265, 
+        "latitude_unit": "degree", 
+        "longitude": -70.69219444412364, 
+        "longitude_unit": "degree", 
+        "name": "MAGELLAN1", 
+        "source": "slalib"
+    },
+
+
+    "MAGELLAN2": {
+        "aliases": "Magellan 2, 6.5m, Las Campanas", 
+        "elevation": 2407.999999999994, 
+        "elevation_unit": "meter", 
+        "latitude": -29.013972221995697, 
+        "latitude_unit": "degree", 
+        "longitude": -70.69263888863125, 
+        "longitude_unit": "degree", 
+        "name": "MAGELLAN2", 
+        "source": "slalib"
+    },
+
+
+    "MAUNAK88": {
+        "aliases": "Mauna Kea 88 inch", 
+        "elevation": 4213.59999999927, 
+        "elevation_unit": "meter", 
+        "latitude": 19.82299166679664, 
+        "latitude_unit": "degree", 
+        "longitude": -155.46943333353445, 
+        "longitude_unit": "degree", 
+        "name": "MAUNAK88", 
+        "source": "slalib"
+    },
+
+
+    "MCDONLD2.1": {
+        "aliases": "McDonald 2.1 metre", 
+        "elevation": 2075.00000000114, 
+        "elevation_unit": "meter", 
+        "latitude": 30.67158333353477, 
+        "latitude_unit": "degree", 
+        "longitude": -104.02224999984693, 
+        "longitude_unit": "degree", 
+        "name": "MCDONLD2.1", 
+        "source": "slalib"
+    },
+
+
+    "MCDONLD2.7": {
+        "aliases": "McDonald 2.7 metre", 
+        "elevation": 2075.00000000114, 
+        "elevation_unit": "meter", 
+        "latitude": 30.67158333353477, 
+        "latitude_unit": "degree", 
+        "longitude": -104.02155555551867, 
+        "longitude_unit": "degree", 
+        "name": "MCDONLD2.7", 
+        "source": "slalib"
+    },
+
+
+    "MOPRA": {
+        "aliases": "ATNF Mopra Observatory", 
+        "elevation": 849.9999999999554, 
+        "elevation_unit": "meter", 
+        "latitude": -31.26790305562202, 
+        "latitude_unit": "degree", 
+        "longitude": 149.09964777743008, 
+        "longitude_unit": "degree", 
+        "name": "MOPRA", 
+        "source": "slalib"
+    },
+
+
+    "MOST": {
+        "aliases": "Molonglo Observatory Synthesis Telescope", 
+        "elevation": 500.0000000003606, 
+        "elevation_unit": "meter", 
+        "latitude": -35.371944444444445, 
+        "latitude_unit": "degree", 
+        "longitude": 149.42361111111111, 
+        "longitude_unit": "degree", 
+        "name": "MOST", 
+        "source": "slalib"
+    },
+
+
+    "MTEKAR": {
+        "aliases": "Mt Ekar 1.82 metre", 
+        "elevation": 1365.0000000010245, 
+        "elevation_unit": "meter", 
+        "latitude": 45.84666666668574, 
+        "latitude_unit": "degree", 
+        "longitude": 11.570833333323177, 
+        "longitude_unit": "degree", 
+        "name": "MTEKAR", 
+        "source": "slalib"
+    },
+
+
+    "MTHOP1.5": {
+        "aliases": "Mt Hopkins 1.5 metre", 
+        "elevation": 2344.000000000059, 
+        "elevation_unit": "meter", 
+        "latitude": 31.680944444847732, 
+        "latitude_unit": "degree", 
+        "longitude": -110.87749999999927, 
+        "longitude_unit": "degree", 
+        "name": "MTHOP1.5", 
+        "source": "slalib"
+    },
+
+
+    "MTLEMMON60": {
+        "aliases": "Mt Lemmon 60 inch", 
+        "elevation": 2789.999999999544, 
+        "elevation_unit": "meter", 
+        "latitude": 32.442750000436014, 
+        "latitude_unit": "degree", 
+        "longitude": -110.70469444445416, 
+        "longitude_unit": "degree", 
+        "name": "MTLEMMON60", 
+        "source": "slalib"
+    },
+
+
+    "NANCAY": {
+        "aliases": "Nancay Radio Telescope", 
+        "elevation": 190.94343144560776, 
+        "elevation_unit": "meter", 
+        "latitude": 47.373601708263124, 
+        "latitude_unit": "degree", 
+        "longitude": 2.1974784506622265, 
+        "longitude_unit": "degree", 
+        "name": "NANCAY", 
+        "source": "slalib"
+    },
+
+
+    "NCRSS": {
+        "aliases": "Northern Cross", 
+        "elevation": 24.999999997546247, 
+        "elevation_unit": "meter", 
+        "latitude": 44.5218, 
+        "latitude_unit": "degree", 
+        "longitude": 11.646799999999999, 
+        "longitude_unit": "degree", 
+        "name": "NCRSS", 
+        "source": "slalib"
+    },
+
+
+    "NOBEYAMA": {
+        "aliases": "Nobeyama 45 metre", 
+        "elevation": 1349.9999999997133, 
+        "elevation_unit": "meter", 
+        "latitude": 35.93861111112792, 
+        "latitude_unit": "degree", 
+        "longitude": 138.4866666669409, 
+        "longitude_unit": "degree", 
+        "name": "NOBEYAMA", 
+        "source": "slalib"
+    },
+
+
+    "OKAYAMA": {
+        "aliases": "Okayama 1.88 metre", 
+        "elevation": 371.99999999967224, 
+        "elevation_unit": "meter", 
+        "latitude": 34.57391666675398, 
+        "latitude_unit": "degree", 
+        "longitude": 133.59646944469912, 
+        "longitude_unit": "degree", 
+        "name": "OKAYAMA", 
+        "source": "slalib"
+    },
+
+
+    "PALOMAR200": {
+        "aliases": "Palomar 200 inch", 
+        "elevation": 1705.999999999907, 
+        "elevation_unit": "meter", 
+        "latitude": 33.35611111111381, 
+        "latitude_unit": "degree", 
+        "longitude": -116.86388888912214, 
+        "longitude_unit": "degree", 
+        "name": "PALOMAR200", 
+        "source": "slalib"
+    },
+
+
+    "PALOMAR48": {
+        "aliases": "Palomar 48-inch Schmidt", 
+        "elevation": 1705.9999999995769, 
+        "elevation_unit": "meter", 
+        "latitude": 33.357222222210915, 
+        "latitude_unit": "degree", 
+        "longitude": -116.85888888869813, 
+        "longitude_unit": "degree", 
+        "name": "PALOMAR48", 
+        "source": "slalib"
+    },
+
+
+    "PALOMAR60": {
+        "aliases": "Palomar 60 inch", 
+        "elevation": 1706.0000000001596, 
+        "elevation_unit": "meter", 
+        "latitude": 33.34888888889666, 
+        "latitude_unit": "degree", 
+        "longitude": -116.85861111131062, 
+        "longitude_unit": "degree", 
+        "name": "PALOMAR60", 
+        "source": "slalib"
+    },
+
+
+    "PARKES": {
+        "aliases": "Parkes 64 metre", 
+        "elevation": 391.78999999976156, 
+        "elevation_unit": "meter", 
+        "latitude": -32.999962694366815, 
+        "latitude_unit": "degree", 
+        "longitude": 148.26232197238204, 
+        "longitude_unit": "degree", 
+        "name": "PARKES", 
+        "source": "slalib"
+    },
+
+
+    "PRINCETON": {
+        "aliases": "?", 
+        "elevation": 42.999999999394454, 
+        "elevation_unit": "meter", 
+        "latitude": 40.34658333333332, 
+        "latitude_unit": "degree", 
+        "longitude": -74.64829166666668, 
+        "longitude_unit": "degree", 
+        "name": "PRINCETON", 
+        "source": "slalib"
+    },
+
+
+    "QUABIN": {
+        "aliases": "?", 
+        "elevation": 306.0000000003468, 
+        "elevation_unit": "meter", 
+        "latitude": 42.39255555555555, 
+        "latitude_unit": "degree", 
+        "longitude": -72.34455555555556, 
+        "longitude_unit": "degree", 
+        "name": "QUABIN", 
+        "source": "slalib"
+    },
+
+
+    "QUEBEC1.6": {
+        "aliases": "Quebec 1.6 metre", 
+        "elevation": 1114.0000000011792, 
+        "elevation_unit": "meter", 
+        "latitude": 45.45572222235222, 
+        "latitude_unit": "degree", 
+        "longitude": -71.15269444438525, 
+        "longitude_unit": "degree", 
+        "name": "QUEBEC1.6", 
+        "source": "slalib"
+    },
+
+
+    "SAAO74": {
+        "aliases": "Sutherland 74 inch", 
+        "elevation": 1770.99999999992, 
+        "elevation_unit": "meter", 
+        "latitude": -32.37872222265578, 
+        "latitude_unit": "degree", 
+        "longitude": 20.812305555352033, 
+        "longitude_unit": "degree", 
+        "name": "SAAO74", 
+        "source": "slalib"
+    },
+
+
+    "SANPM83": {
+        "aliases": "San Pedro Martir 83 inch", 
+        "elevation": 2830.0000000001537, 
+        "elevation_unit": "meter", 
+        "latitude": 31.043888888866245, 
+        "latitude_unit": "degree", 
+        "longitude": -115.4630555556945, 
+        "longitude_unit": "degree", 
+        "name": "SANPM83", 
+        "source": "slalib"
+    },
+
+
+    "SHAO65": {
+        "aliases": "Shanghai Astronomical Observatory 65 meter", 
+        "elevation": 45.687277653361235, 
+        "elevation_unit": "meter", 
+        "latitude": 31.092101379940257, 
+        "latitude_unit": "degree", 
+        "longitude": 121.13606753304887, 
+        "longitude_unit": "degree", 
+        "name": "SHAO65", 
+        "source": "slalib"
+    },
+
+
+    "SRT": {
+        "aliases": "Sardinia Radio Telescope", 
+        "elevation": 671.6665006731583, 
+        "elevation_unit": "meter", 
+        "latitude": 39.49307238803392, 
+        "latitude_unit": "degree", 
+        "longitude": 9.245151244532096, 
+        "longitude_unit": "degree", 
+        "name": "SRT", 
+        "source": "slalib"
+    },
+
+
+    "ST.ANDREWS": {
+        "aliases": "St Andrews", 
+        "elevation": 29.999999998700925, 
+        "elevation_unit": "meter", 
+        "latitude": 56.33666666667401, 
+        "latitude_unit": "degree", 
+        "longitude": -2.814583333331974, 
+        "longitude_unit": "degree", 
+        "name": "ST.ANDREWS", 
+        "source": "slalib"
+    },
+
+
+    "STEWARD90": {
+        "aliases": "Steward 90 inch", 
+        "elevation": 2071.0000000006175, 
+        "elevation_unit": "meter", 
+        "latitude": 31.963027778200125, 
+        "latitude_unit": "degree", 
+        "longitude": -111.59951111140423, 
+        "longitude_unit": "degree", 
+        "name": "STEWARD90", 
+        "source": "slalib"
+    },
+
+
+    "STROMLO74": {
+        "aliases": "Mount Stromlo 74 inch", 
+        "elevation": 766.9999999999051, 
+        "elevation_unit": "meter", 
+        "latitude": -35.3206388889426, 
+        "latitude_unit": "degree", 
+        "longitude": 149.0076638891084, 
+        "longitude_unit": "degree", 
+        "name": "STROMLO74", 
+        "source": "slalib"
+    },
+
+
+    "SUGARGROVE": {
+        "aliases": "Sugar Grove 150 foot", 
+        "elevation": 705.0000000005934, 
+        "elevation_unit": "meter", 
+        "latitude": 38.52055555556485, 
+        "latitude_unit": "degree", 
+        "longitude": -79.27305555550818, 
+        "longitude_unit": "degree", 
+        "name": "SUGARGROVE", 
+        "source": "slalib"
+    },
+
+
+    "TAUTNBG": {
+        "aliases": "Tautenburg 2 metre", 
+        "elevation": 330.9999999989503, 
+        "elevation_unit": "meter", 
+        "latitude": 50.980833333325165, 
+        "latitude_unit": "degree", 
+        "longitude": 11.712500000009406, 
+        "longitude_unit": "degree", 
+        "name": "TAUTNBG", 
+        "source": "slalib"
+    },
+
+
+    "TAUTSCHM": {
+        "aliases": "Tautenberg 1.34 metre Schmidt", 
+        "elevation": 330.9999999989503, 
+        "elevation_unit": "meter", 
+        "latitude": 50.980833333325165, 
+        "latitude_unit": "degree", 
+        "longitude": 11.712500000009406, 
+        "longitude_unit": "degree", 
+        "name": "TAUTSCHM", 
+        "source": "slalib"
+    },
+
+
+    "TIDBINBLA": {
+        "aliases": "Tidbinbilla 64 metre", 
+        "elevation": 670.0000000008215, 
+        "elevation_unit": "meter", 
+        "latitude": -35.40397222225709, 
+        "latitude_unit": "degree", 
+        "longitude": 148.98005555564066, 
+        "longitude_unit": "degree", 
+        "name": "TIDBINBLA", 
+        "source": "slalib"
+    },
+
+
+    "TOLOLO1.5M": {
+        "aliases": "Cerro Tololo 1.5 metre", 
+        "elevation": 2224.999999999903, 
+        "elevation_unit": "meter", 
+        "latitude": -30.165638888673744, 
+        "latitude_unit": "degree", 
+        "longitude": -70.81513888899259, 
+        "longitude_unit": "degree", 
+        "name": "TOLOLO1.5M", 
+        "source": "slalib"
+    },
+
+
+    "TOLOLO4M": {
+        "aliases": "Cerro Tololo 4 metre", 
+        "elevation": 2234.999999999877, 
+        "elevation_unit": "meter", 
+        "latitude": -30.166055555327993, 
+        "latitude_unit": "degree", 
+        "longitude": -70.81488888859897, 
+        "longitude_unit": "degree", 
+        "name": "TOLOLO4M", 
+        "source": "slalib"
+    },
+
+
+    "UKIRT": {
+        "aliases": "UK Infra Red Telescope", 
+        "elevation": 4198.499999999551, 
+        "elevation_unit": "meter", 
+        "latitude": 19.822430555534176, 
+        "latitude_unit": "degree", 
+        "longitude": -155.47032777794846, 
+        "longitude_unit": "degree", 
+        "name": "UKIRT", 
+        "source": "slalib"
+    },
+
+
+    "UKST": {
+        "aliases": "UK 1.2 metre Schmidt, Siding Spring", 
+        "elevation": 1144.999999999382, 
+        "elevation_unit": "meter", 
+        "latitude": -31.274388888703132, 
+        "latitude_unit": "degree", 
+        "longitude": 149.07022222237143, 
+        "longitude_unit": "degree", 
+        "name": "UKST", 
+        "source": "slalib"
+    },
+
+
+    "USSR6": {
+        "aliases": "USSR 6 metre", 
+        "elevation": 2100.0000000005784, 
+        "elevation_unit": "meter", 
+        "latitude": 43.65333333331855, 
+        "latitude_unit": "degree", 
+        "longitude": 41.441666666648516, 
+        "longitude_unit": "degree", 
+        "name": "USSR6", 
+        "source": "slalib"
+    },
+
+
+    "USSR600": {
+        "aliases": "USSR 600 foot", 
+        "elevation": 972.9999999993822, 
+        "elevation_unit": "meter", 
+        "latitude": 43.82555555554771, 
+        "latitude_unit": "degree", 
+        "longitude": 41.590416666686245, 
+        "longitude_unit": "degree", 
+        "name": "USSR600", 
+        "source": "slalib"
+    },
+
+
+    "VLA": {
+        "aliases": "Very Large Array", 
+        "elevation": 2123.9999999995525, 
+        "elevation_unit": "meter", 
+        "latitude": 34.07874999999899, 
+        "latitude_unit": "degree", 
+        "longitude": -107.61772777793921, 
+        "longitude_unit": "degree", 
+        "name": "VLA", 
+        "source": "slalib"
+    },
+
+
+    "VLT1": {
+        "aliases": "ESO VLT, Paranal, Chile: UT1", 
+        "elevation": 2635.429931639928, 
+        "elevation_unit": "meter", 
+        "latitude": -24.625865833502708, 
+        "latitude_unit": "degree", 
+        "longitude": -70.4032338887306, 
+        "longitude_unit": "degree", 
+        "name": "VLT1", 
+        "source": "slalib"
+    },
+
+
+    "VLT2": {
+        "aliases": "ESO VLT, Paranal, Chile: UT2", 
+        "elevation": 2635.4299316391125, 
+        "elevation_unit": "meter", 
+        "latitude": -24.625406944499918, 
+        "latitude_unit": "degree", 
+        "longitude": -70.40301527782978, 
+        "longitude_unit": "degree", 
+        "name": "VLT2", 
+        "source": "slalib"
+    },
+
+
+    "VLT3": {
+        "aliases": "ESO VLT, Paranal, Chile: UT3", 
+        "elevation": 2635.4299316407296, 
+        "elevation_unit": "meter", 
+        "latitude": -24.625083333124383, 
+        "latitude_unit": "degree", 
+        "longitude": -70.40274888912434, 
+        "longitude_unit": "degree", 
+        "name": "VLT3", 
+        "source": "slalib"
+    },
+
+
+    "VLT4": {
+        "aliases": "ESO VLT, Paranal, Chile: UT4", 
+        "elevation": 2635.429931640306, 
+        "elevation_unit": "meter", 
+        "latitude": -24.625277777754018, 
+        "latitude_unit": "degree", 
+        "longitude": -70.40222222230837, 
+        "longitude_unit": "degree", 
+        "name": "VLT4", 
+        "source": "slalib"
+    },
+
+
+    "WSRT": {
+        "aliases": "The Westerbork Radio Telescope", 
+        "elevation": 71.21037212315359, 
+        "elevation_unit": "meter", 
+        "latitude": 52.91529187259585, 
+        "latitude_unit": "degree", 
+        "longitude": 6.633334137183639, 
+        "longitude_unit": "degree", 
+        "name": "WSRT", 
+        "source": "slalib"
     }
 }
